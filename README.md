@@ -48,13 +48,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 743 Contributions in the Year 2021
+> 🏆 746 Contributions in the Year 2021
  > 
 > 📦 22.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
  > 
@@ -127,7 +127,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/11/2021
+ Last Updated on 17/11/2021
 <!--END_SECTION:waka-->
 
 <br />

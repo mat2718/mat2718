@@ -89,21 +89,16 @@ Sunday       59 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    3 hrs 1 min         ███████████████████░░░░░░   76.7% 
-TypeScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   22.3% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           3 hrs 1 min         ███████████████████░░░░░░   76.7% 
-VS Code                  55 mins             █████░░░░░░░░░░░░░░░░░░░░   23.3%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 3 mins        ███████████████████░░░░░░   77.7% 
-react-native-mobile-intak52 mins             █████░░░░░░░░░░░░░░░░░░░░   22.3%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               3 hrs 1 min         ███████████████████░░░░░░   76.7% 
-Windows                  55 mins             █████░░░░░░░░░░░░░░░░░░░░   23.3%
+No Activity Tracked This Week
 
 ```
 
@@ -124,7 +119,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
 <br />

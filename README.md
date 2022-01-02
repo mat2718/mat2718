@@ -50,7 +50,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 747 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 22.9 kB Used in GitHub's Storage 
  > 
@@ -126,7 +126,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
 <br />

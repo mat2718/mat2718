@@ -124,7 +124,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/02/2022 18:47:22 UTC
+ Last Updated on 25/02/2022 18:48:11 UTC
 <!--END_SECTION:waka-->
 
 <br />

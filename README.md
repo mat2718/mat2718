@@ -52,7 +52,7 @@
 
 > 🏆 3 Contributions in the Year 2022
  > 
-> 📦 23.1 kB Used in GitHub's Storage 
+> 📦 22.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,7 +119,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/04/2022 18:48:35 UTC
+ Last Updated on 21/04/2022 18:53:00 UTC
 <!--END_SECTION:waka-->
 
 <br />

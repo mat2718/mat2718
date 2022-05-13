@@ -44,7 +44,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,16 +89,16 @@ Sunday       50 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 hr 11 mins        █████████████████████████   100.0%
+Other                    11 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  1 hr 11 mins        █████████████████████████   100.0%
+Browser                  11 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-react-native-mobile-intak1 hr 11 mins        █████████████████████████   100.0%
+react-native-mobile-intak11 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.0%
+Windows                  11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -119,7 +119,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/05/2022 18:54:46 UTC
+ Last Updated on 13/05/2022 18:51:30 UTC
 <!--END_SECTION:waka-->
 
 <br />

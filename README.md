@@ -44,7 +44,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -119,7 +119,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/05/2022 18:51:31 UTC
+ Last Updated on 19/05/2022 18:57:16 UTC
 <!--END_SECTION:waka-->
 
 <br />

@@ -44,7 +44,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,16 +89,24 @@ Sunday       50 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr                ████████████████░░░░░░░░░   66.39% 
+JSON                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57% 
+TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          1 hr                ████████████████░░░░░░░░░   66.32% 
+VS Code                  30 mins             ████████░░░░░░░░░░░░░░░░░   33.68%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr                ████████████████░░░░░░░░░   66.32% 
+backend                  23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91% 
+frontend                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.76%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Unknown OS               1 hr                ████████████████░░░░░░░░░   66.32% 
+Windows                  30 mins             ████████░░░░░░░░░░░░░░░░░   33.68%
 
 ```
 
@@ -119,7 +127,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/06/2022 18:48:24 UTC
+ Last Updated on 08/06/2022 18:48:51 UTC
 <!--END_SECTION:waka-->
 
 <br />

@@ -6,10 +6,10 @@
 
 ## I'm a Husband, Veteran, and Full Stack Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play with my 4 animals and spend time with my family
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play with my four animals and spend time with my family
 
 <br />
 <br />
@@ -40,91 +40,90 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 <br />
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 678 Contributions in the Year 2021
- > 
-> 📦 4.3 kB Used in GitHub's Storage 
- > 
+>
+> 📦 4.3 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 11 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 24 Public Repositories
+>
+> 🔑 11 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-🌆 Daytime    308 commits    ███████████████░░░░░░░░░░   63.37% 
-🌃 Evening    98 commits     █████░░░░░░░░░░░░░░░░░░░░   20.16% 
+🌞 Morning    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
+🌆 Daytime    308 commits    ███████████████░░░░░░░░░░   63.37%
+🌃 Evening    98 commits     █████░░░░░░░░░░░░░░░░░░░░   20.16%
 🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.49% 
-Tuesday      107 commits    █████░░░░░░░░░░░░░░░░░░░░   22.02% 
-Wednesday    110 commits    █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-Thursday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
-Friday       93 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.14% 
-Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
+Monday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.49%
+Tuesday      107 commits    █████░░░░░░░░░░░░░░░░░░░░   22.02%
+Wednesday    110 commits    █████░░░░░░░░░░░░░░░░░░░░   22.63%
+Thursday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14%
+Friday       93 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.14%
+Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
 Sunday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/New_York
 
-💬 Programming Languages: 
-Markdown                 35 mins             ██████████░░░░░░░░░░░░░░░   41.26% 
-JSON                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.3% 
-TypeScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
-C#                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
+💬 Programming Languages:
+Markdown                 35 mins             ██████████░░░░░░░░░░░░░░░   41.26%
+JSON                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.3%
+TypeScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.13%
+C#                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.19%
 SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.29%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  1 hr 26 mins        █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Staging-Project-Front-End1 hr 6 mins         ███████████████████░░░░░░   76.94% 
-Staging-Project-Back-End 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
-backend                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
-Please_Dont_Fire_Us      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
+🐱‍💻 Projects:
+Staging-Project-Front-End1 hr 6 mins         ███████████████████░░░░░░   76.94%
+Staging-Project-Back-End 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85%
+backend                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.29%
+Please_Dont_Fire_Us      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
 Project_One              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  1 hr 26 mins        █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               8 repos             █████████████░░░░░░░░░░░░   53.33% 
-Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+TypeScript               8 repos             █████████████░░░░░░░░░░░░   53.33%
+Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67%
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/mat2718/mat2718/main/charts/bar_graph.png)
 
+Last Updated on 03/10/2021
 
- Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
 
 <br />
@@ -135,7 +134,6 @@ HTML                     1 repo              █░░░░░░░░░░�
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-mat2718.vercel.app/api?username=mat2718&show_icons=true&hide_border=true" />
 
 </details>
-
 
 [website]: https://www.linkedin.com/in/matthew-terry-9a1b57185
 [course]: http://vsCodeHero.com

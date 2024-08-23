@@ -43,7 +43,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C323%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C325%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -86,16 +86,16 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    9 hrs               █████████████████████████   100.00 % 
+Other                    9 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          9 hrs               █████████████████████████   100.00 % 
+Google Calendar          9 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs               █████████████████████████   100.00 % 
+Unknown Project          9 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               9 hrs               █████████████████████████   100.00 % 
+Unknown OS               9 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +115,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mat2718/mat2718/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 18:37:28 UTC
+ Last Updated on 23/08/2024 18:37:04 UTC
 <!--END_SECTION:waka-->
 
 <br />

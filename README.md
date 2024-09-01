@@ -51,8 +51,6 @@
 
 > 📦 49.9 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 61 Public Repositories 
@@ -86,16 +84,16 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    6 hrs               █████████████████████████   100.00 % 
+Other                    4 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          6 hrs               █████████████████████████   100.00 % 
+Google Calendar          4 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs               █████████████████████████   100.00 % 
+Unknown Project          4 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               6 hrs               █████████████████████████   100.00 % 
+Unknown OS               4 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +113,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mat2718/mat2718/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2024 18:36:39 UTC
+ Last Updated on 01/09/2024 18:36:45 UTC
 <!--END_SECTION:waka-->
 
 <br />

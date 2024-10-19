@@ -43,7 +43,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C360%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C362%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -115,7 +115,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mat2718/mat2718/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2024 18:39:12 UTC
+ Last Updated on 19/10/2024 18:37:56 UTC
 <!--END_SECTION:waka-->
 
 <br />

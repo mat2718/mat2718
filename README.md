@@ -43,13 +43,15 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C371%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C372%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 49.9 kB Used in GitHub's Storage 
+> 📦 50.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,6 +59,45 @@
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌆 Daytime                714 commits         ████████████░░░░░░░░░░░░░   47.35 % 
+🌃 Evening                309 commits         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+🌙 Night                  248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Tuesday                  277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Wednesday                231 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Thursday                 314 commits         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Friday                   492 commits         ████████░░░░░░░░░░░░░░░░░   32.63 % 
+Saturday                 36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Sunday                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Other                    4 hrs               █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          4 hrs               █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          4 hrs               █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Unknown OS               4 hrs               █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,7 +115,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mat2718/mat2718/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 18:38:45 UTC
+ Last Updated on 04/11/2024 18:39:24 UTC
 <!--END_SECTION:waka-->
 
 <br />

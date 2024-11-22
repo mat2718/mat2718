@@ -51,8 +51,6 @@
 
 > 📦 50.0 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 61 Public Repositories 
@@ -115,7 +113,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mat2718/mat2718/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2024 18:40:17 UTC
+ Last Updated on 22/11/2024 18:39:52 UTC
 <!--END_SECTION:waka-->
 
 <br />

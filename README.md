@@ -43,15 +43,13 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C424%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C425%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 49.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,16 +84,16 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    7 hrs               █████████████████████████   100.00 % 
+Other                    8 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          7 hrs               █████████████████████████   100.00 % 
+Google Calendar          8 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs               █████████████████████████   100.00 % 
+Unknown Project          8 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               7 hrs               █████████████████████████   100.00 % 
+Unknown OS               8 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +113,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mat2718/mat2718/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2025 18:39:20 UTC
+ Last Updated on 23/01/2025 18:38:46 UTC
 <!--END_SECTION:waka-->
 
 <br />

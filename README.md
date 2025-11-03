@@ -43,8 +43,6 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C537%20hrs%2026%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -76,7 +74,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mat2718/mat2718/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 18:38:05 UTC
+ Last Updated on 03/11/2025 18:39:53 UTC
 <!--END_SECTION:waka-->
 
 <br />
